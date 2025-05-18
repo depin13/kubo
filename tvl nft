@@ -1,0 +1,14 @@
+{
+    "name": "Tvl sticker edition #2",
+    "image": "https://app.pinata.cloud/ipfs/files#",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "human"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "human"
+        }
+    ]
+}
